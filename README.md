@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PangolinGIS!
+- 👋 Hi, I’m PangolinGIS!
 - 👀 I’m interested in GIS, R-programming, statistical analysis, Bayesian statistics, hydrological modelling.
 - 🌱 I’m currently learning Fortran, ArcPRO, Anaconda-Python, Machine Learning.
-- 💞️ I’m looking to collaborate on hydrological modelling.
+- 💞️ I’m looking to collaborate on hydrological modelling, geochemical baseline studies, peatland research.
 - 📫 How to reach me - send me an email!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love pangolins!
